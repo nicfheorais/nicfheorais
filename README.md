@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 💬 Ask me about
-- relational databases - Oracle, MS SQL, MS SQL Server, PostgreSQL, Db2 and even Ingres
+- Data migrations, data cleansing, data transformations, and data modelling and storage especially relational databases - Oracle, MS SQL, MS SQL Server, PostgreSQL, Db2 and even Ingres
 - working at Deloitte, PwC or Visa
 
 ## 💻 Current 
