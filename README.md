@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - working at Deloitte, PwC or Visa
 
 ## 💻 Current 
-Currently on School of Code Bootcamp learning HTML, CSS, Javascript, React, Typescript, Node.js, REST APIs and lots of other good stuff.
+Currently on School of Code Bootcamp learning HTML, CSS, Javascript, React, Typescript, Node.js, Express.js, REST APIs, Jest, Cypress, Git and lots of other good stuff.
 
 ## 📅 Hobbies
 - photographer (occasionally paid)
