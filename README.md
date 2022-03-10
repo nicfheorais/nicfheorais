@@ -1,31 +1,25 @@
-### Sinéad Nic Fheorais 👋
+### Sinéad Nic Fheorais  (Sinead Corish)
 
-<!--
-**nicfheorais/nicfheorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current 
+School of Code Bootcamper learning HTML, CSS, Javascript, React, Typescript, Node, Express, REST APIs, Jest, Cypress, Git and lots of other good stuff. Currently working on our final group projects: six people; four intense weeks; solving a problem from inception to full stack demo
 
-Here are some ideas to get you started:
+| Repo Description | Link            | 
+| ---- | ---------------------- | 
+| School of Code final project - website | https://github.com/SchoolOfCode/final-project-front-end-hexcode  | Designed with the mobile market in mind. Heavily integrated with the back end | 
+| School of Code final project - server| https://github.com/SchoolOfCode/final-project-repo-hexcode |  check out the readme and the various design docs | 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## 💬 Ask me about
-- Data migrations, data cleansing, data transformations, and data modelling and storage especially relational databases - Oracle, MS SQL, MS SQL Server, PostgreSQL, Db2 and even Ingres
-- working at Deloitte, PwC or Visa
+##  Experience
+Check me out on LinkedIn (https://www.linkedin.com/in/sineadcorish/).  I was a developer for close to 10 years back in the day, working on a range of different tech stacks and on some really complex multi-million pound projects. Then got several years of business analysis and project management under my belt.  Now returning to my first love. Coding.
 
-## 💻 Current 
-Currently on School of Code Bootcamp learning HTML, CSS, Javascript, React, Typescript, Node.js, Express.js, REST APIs, Jest, Cypress, Git and lots of other good stuff.
+## Ask me about
+- Data migrations, data cleansing, data transformations, 
+- Data modelling and storage especially relational databases - Oracle, MS SQL, MS SQL Server, PostgreSQL, Db2 and even Ingres
+- working at Deloitte, PwC or Visa 
 
-## ⚡  GitHub Streak
+## GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nicfheorais&theme=prussian&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-## 📅 Hobbies
+## Hobbies
 - photographer (occasionally paid)
 - potter (definitely unpaid!)
 - cold water swimming, scrambling, hiking and biking
-
