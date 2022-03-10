@@ -9,7 +9,10 @@ School of Code Bootcamper learning HTML, CSS, Javascript, React, Typescript, Nod
 | School of Code final project - server| https://github.com/SchoolOfCode/final-project-repo-hexcode |  check out the readme and the various design docs | 
 
 ##  Experience
-Check me out on LinkedIn (https://www.linkedin.com/in/sineadcorish/).  I was a developer for close to 10 years back in the day, working on a range of different tech stacks and on some really complex multi-million pound projects. Then got several years of business analysis and project management under my belt.  Now returning to my first love. Coding.
+I was a full stack developer for close to 10 years back in the day, working on a range of different tech stacks and on some really complex multi-million pound projects. Then got several years of business analysis and project management under my belt.  Now returning to my first love. Coding. More information 
+<a href="https://www.linkedin.com/in/sineadcorish/" title="linkedin-redirect">
+    <img src="images/linkedin-icon.png" width="35" height="35">
+</a> 
 
 ## Ask me about
 - Data migrations, data cleansing, data transformations, 
