@@ -17,14 +17,12 @@ fuss'
 
  <br />
 
-| Project Repo Description                                                                                                                                                                                                                                                                                                                                                                                            | Link                                                            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| Front end for Raduno! - a responsive web app (React, HTML, CSS, Cypress) to make it easier to plan group activites. Chat, invitation and group voting features. Design documentation included.                                                                                                                                                                                                                      | https://github.com/SchoolOfCode/final-project-front-end-hexcode |
-| Back end for Raduno! - mutiple RESTful APIs (Node, Express), with migration + seed scripts for a PostgreSQL database, hosted on Heroku. Automated testing through Jest and Super Test are currently being added. Next steps are to complete the back end APIs required, and to transition to Typescript. Domain model, logical and physical datamodels, and API-Front End mapping diagram stored alongside the code | https://github.com/SchoolOfCode/final-project-repo-hexcode      |
-| Country Quiz Web App - Gives you a series of hints and you have to guess the country. Initial build using React, HTML and CSS. Using a 3rd party API for the country facts. Work in progress. Currently re-factoring to use Typescript and improving use of React Hooks.                                                                                                                                            | https://github.com/nicfheorais/country-api-quiz                 |
-| Very early days on this. Designed. Build starting next week. Aim is to create a simple calculator in React to practice our Typescript, pair-programming and Test Driven Design with Jest.                                                                                                                                                                                                                           | https://github.com/nicfheorais/2022-02-11-calculator-react-jest |
-
-<br />
+| Project Repo Description                                                                                                                                                                                                                                                                                                                                                                                                   | Link                                                            |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| Front end for **Raduno! Catch up without the fuss!** - a responsive web app (React, HTML, CSS, Cypress) to make it easier to plan group activites. Chat, invitation and group voting features. Design documentation included. _Next steps are to complete implementation of real-time chat using socket.io on front and back end._                                                                                         | https://github.com/SchoolOfCode/final-project-front-end-hexcode |
+| Back end for **Raduno!** - mutiple RESTful APIs (Node, Express), with migration + seed scripts for a PostgreSQL database, hosted on Heroku. Automated testing through Jest and Super Test are currently being added. Domain model, logical and physical datamodels, and API-Front End mapping diagram stored alongside the code. _Next steps are to complete the back end APIs required, and to transition to Typescript._ | https://github.com/SchoolOfCode/final-project-repo-hexcode      |
+| **Country Quiz Web App** - Gives you a series of hints and you have to guess the country. Initial build using React, HTML and CSS. Using a 3rd party API for the country facts. Work in progress. _Currently re-factoring to use Typescript and improving use of React Hooks._                                                                                                                                             | https://github.com/nicfheorais/country-api-quiz                 |
+| Very early days on this. Designed. Build starting next week. Aim is to create a simple **calculator in React** to practice our Typescript, pair-programming and Test Driven Design with Jest.                                                                                                                                                                                                                              | https://github.com/nicfheorais/2022-02-11-calculator-react-jest |
 
 ## Experience
 
@@ -44,9 +42,9 @@ under my belt. Now returning to my first love, coding.
 
 ### Ask me about
 
--   Large-scale system integration projects at Deloitte Consulting UK and
+-   Large-scale system integration projects at **Deloitte Consulting UK** and
     PricewaterhouseCoopers Ireland
--   Agile digital transformation with Thoughtworks for Collinson Group
+-   **Agile digital transformation** with Thoughtworks for Collinson Group
 -   Continuous improvement programme for financial systems at NTMA (National
     Treasury Management Agency, Ireland)
 -   Data migrations, data cleansing, data transformations,
@@ -63,7 +61,7 @@ under my belt. Now returning to my first love, coding.
 
 -   photographer (occasionally paid)
 -   potter (definitely unpaid!)
--   cold water swimming, scrambling, hiking and biking
+-   hiker, mountain-biker, scramber and aspiring cold water swimmer
 
 ### Technologies
 
@@ -90,6 +88,8 @@ under my belt. Now returning to my first love, coding.
 ### GitHub Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nicfheorais&theme=prussian&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=nicfheorais&color=blue&label=Github+Profile+Views)
 
 <!--
 # TEST AREA -->
