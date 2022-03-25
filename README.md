@@ -43,30 +43,31 @@ years, before merging back into my first love, coding.
 ### Ask me about
 
 -   Large-scale system integration projects at **Deloitte Consulting UK** and
-    PricewaterhouseCoopers Ireland
--   **Agile digital transformation** with Thoughtworks for Collinson Group
+    PricewaterhouseCoopers Ireland;
+-   **Agile digital transformation** with Thoughtworks for Collinson Group;
 -   Continuous improvement programme for financial systems at NTMA (National
-    Treasury Management Agency, Ireland)
--   Data migrations, data cleansing, data transformations,
+    Treasury Management Agency, Ireland);
+-   Data migrations, data cleansing, data transformations; and
 -   Data modelling and storage especially relational databases - Oracle,
-    MySQL/MariaDB, Microsoft SQL Server, PostgreSQL, DB2 and Ingres
+    MySQL/MariaDB, Microsoft SQL Server, PostgreSQL, DB2 and Ingres.
 
 ### More information
 
 <a href="https://www.linkedin.com/in/sineadcorish" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Logo"  /></a>
 
-## Facts n Stats
+## Facts and Stats
 
 ### Hobbies
 
--   photographer (occasionally paid)
--   potter (definitely unpaid!)
--   hiker, mountain-biker, scramber and aspiring cold water swimmer
+-   photographer (occasionally paid);
+-   potter (definitely unpaid!); and
+-   hiker, mountain-biker, scramber and aspiring cold water swimmer.
 
 ### Technologies
 
 <br />
 <!-- TODO: add in Perl, PHP, C, PL/SQL, T-SQL -->
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
