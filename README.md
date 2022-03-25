@@ -28,8 +28,8 @@ fuss'
 
 I was a full stack developer for close to 10 years back in the day, working on a
 range of different tech stacks and on complex, multi-million pound projects. I
-then expanded into business analysis and project management for several years,
-before coming back to my first love of coding.
+then forked my career into business analysis and project management for several
+years, before merging back into my first love, coding.
 
 <!-- | Company | Client/Project | Experience |
 | ------- | -------------- | ---------- |
