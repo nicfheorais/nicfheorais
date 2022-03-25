@@ -27,9 +27,9 @@ fuss'
 ## Experience
 
 I was a full stack developer for close to 10 years back in the day, working on a
-range of different tech stacks and on some really complex multi-million pound
-projects. Then I put several years of business analysis and project management
-under my belt. Now returning to my first love, coding.
+range of different tech stacks and on complex, multi-million pound projects. I
+then expanded into business analysis and project management for several years,
+before coming back to my first love of coding.
 
 <!-- | Company | Client/Project | Experience |
 | ------- | -------------- | ---------- |
@@ -48,8 +48,8 @@ under my belt. Now returning to my first love, coding.
 -   Continuous improvement programme for financial systems at NTMA (National
     Treasury Management Agency, Ireland)
 -   Data migrations, data cleansing, data transformations,
--   Data modelling and storage especially relational databases - Oracle, MS SQL,
-    Microsoft SQL Server, PostgreSQL, DB2 and even Ingres
+-   Data modelling and storage especially relational databases - Oracle,
+    MySQL/MariaDB, Microsoft SQL Server, PostgreSQL, DB2 and Ingres
 
 ### More information
 
@@ -66,7 +66,7 @@ under my belt. Now returning to my first love, coding.
 ### Technologies
 
 <br />
-
+<!-- TODO: add in Perl, PHP, C, PL/SQL, T-SQL -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
