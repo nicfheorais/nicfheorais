@@ -92,18 +92,19 @@ under my belt. Now returning to my first love, coding.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nicfheorais&theme=prussian&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!--
-# TEST AREA
+# TEST AREA -->
 
 <!-- GITHUB PROFILE VIEWS: from  https://github.com/antonkomarev/github-profile-views-counter -->
 
-![](https://komarev.com/ghpvc/?username=nicfheorais&color=blue&label=Github+Profile+Views)
+<!-- ![](https://komarev.com/ghpvc/?username=nicfheorais&color=blue&label=Github+Profile+Views) -->
 
 <!-- Github TRophies from https://github.com/ryo-ma/github-profile-trophy  -->
 
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=nicfheorais&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 
 <a href="https://www.w3schools.com/cpp/" target="_blank">
