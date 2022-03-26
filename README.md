@@ -27,9 +27,11 @@ fuss'
 ## Experience
 
 I was a full stack developer for close to 10 years back in the day, working on a
-range of different tech stacks and on complex, multi-million pound projects. I
-then forked my career into business analysis and project management for several
-years, before merging back into my first love, coding.
+range of different tech stacks (PHP, Perl, Ab Initio, PL/SQL, SQL, BroadVision,
+CA-OpenROAD & Ingres, MySQL, Microsoft SQLServer, Oracle) and on complex,
+multi-million pound projects. I then forked my career into business analysis and
+project management for several years, before merging back into my first love,
+coding.
 
 <!-- | Company | Client/Project | Experience |
 | ------- | -------------- | ---------- |
