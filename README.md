@@ -6,23 +6,23 @@
 
 ## Current
 
-Recently graduated from School of Code bootcamp
-(https://www.schoolofcode.co.uk/) having produced projects using HTML, CSS,
-Javascript, React, Typescript, Node, Express, REST APIs, Jest, Cypress, Git and
-Github, to name but a few of the technologies we got to grips with, culminating
-in a gruelling, four-week, group project: six people; four intense weeks;
-pair-programming from inception to full stack demo for Raduno! a responsive web
-app designed to solve the problem of arranging big group events 'without the
-fuss'
+Recent School of Code graduate (https://www.schoolofcode.co.uk/). Produced
+projects using HTML, CSS, Javascript, React, Typescript, Node, Express, REST
+APIs, Jest, Cypress, Git and Github, to name but a few of the technologies we
+got to grips with. The bootcamp culminated in a gruelling, four-week, group
+project: six people; four intense weeks; pair-programming from inception to full
+stack demo for **Raduno! Catch up without the fuss!** a responsive web app
+designed to streamline arranging big group events, whichm, as we know, can be
+like herding cats.
 
  <br />
 
-| Project Repo Description                                                                                                                                                                                                                                                                                                                                                                                                   | Link                                                            |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| Front end for **Raduno! Catch up without the fuss!** - a responsive web app (React, HTML, CSS, Cypress) to make it easier to plan group activites. Chat, invitation and group voting features. Design documentation included. _Next steps are to complete implementation of real-time chat using socket.io on front and back end._                                                                                         | https://github.com/SchoolOfCode/final-project-front-end-hexcode |
-| Back end for **Raduno!** - mutiple RESTful APIs (Node, Express), with migration + seed scripts for a PostgreSQL database, hosted on Heroku. Automated testing through Jest and Super Test are currently being added. Domain model, logical and physical datamodels, and API-Front End mapping diagram stored alongside the code. _Next steps are to complete the back end APIs required, and to transition to Typescript._ | https://github.com/SchoolOfCode/final-project-repo-hexcode      |
-| **Country Quiz Web App** - Gives you a series of hints and you have to guess the country. Initial build using React, HTML and CSS. Using a 3rd party API for the country facts. Work in progress. _Currently re-factoring to use Typescript and improving use of React Hooks._                                                                                                                                             | https://github.com/nicfheorais/country-api-quiz                 |
-| Very early days on this. Designed. Build starting next week. Aim is to create a simple **calculator in React** to practice our Typescript, pair-programming and Test Driven Design with Jest.                                                                                                                                                                                                                              | https://github.com/nicfheorais/2022-02-11-calculator-react-jest |
+| Project Repo Description                                                                                                                                                                                                                                                                                                                       | Link                                                            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| Front end for **Raduno!**, a responsive web app (React, HTML, CSS, Cypress, hosted on Netlify) to simplify organising group catch-ups. Includes chat, invitation and group voting features. Design documentation included. _Next step is to complete real-time chat implementation using socket.io, and to integrate Auth0._                   | https://github.com/SchoolOfCode/final-project-front-end-hexcode |
+| Back end for **Raduno!** - mutiple RESTful APIs (Node, Express), with migration/ seed data scripts for PostgreSQL, hosted on Heroku. Domain model, logical and physical datamodels, and API-Front End mapping diagram stored alongside the code. _Next steps are to complete the Jest and SuperTest coverage and to transition to Typescript._ | https://github.com/SchoolOfCode/final-project-repo-hexcode      |
+| **Country Quiz Web App** - provides a series of hints, from which the player guesses the country. React, HTML and CSS, with 3rd party API integration for the country facts. Build in progress. _Currently re-factoring to use Typescript and improving use of React Hooks._                                                                   | https://github.com/nicfheorais/country-api-quiz                 |
+| Simple **calculator in React** to practice Typescript, pair-programming and Test Driven Design, using Jest. _Very early days. Design complete. Build starting next week_                                                                                                                                                                       | https://github.com/nicfheorais/2022-02-11-calculator-react-jest |
 
 ## Experience
 
