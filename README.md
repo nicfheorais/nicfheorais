@@ -6,14 +6,14 @@
 
 ## Current
 
-Recent School of Code graduate (https://www.schoolofcode.co.uk/). Produced
-projects using HTML, CSS, Javascript, React, Typescript, Node, Express, REST
-APIs, Jest, Cypress, Git and Github, to name but a few of the technologies we
-got to grips with. The bootcamp culminated in a gruelling, four-week, group
-project: six people; four intense weeks; pair-programming from inception to full
-stack demo for **Raduno! Catch up without the fuss!** a responsive web app
-designed to streamline arranging big group events, whichm, as we know, can be
-like herding cats.
+School of Code UK graduate (https://www.schoolofcode.co.uk/). Completed projects
+with HTML, CSS, Javascript, React, Typescript, Node, Express, REST APIs, Jest,
+Cypress, Git and Github, to name but a few of the technologies we got to grips
+with. The bootcamp culminated in a gruelling, four-week, group project: six
+people; four intense weeks; pair-programming from inception to full stack demo
+for **Raduno! Catch up without the fuss!** a responsive web app designed to
+streamline arranging big group events, whichm, as we know, can be like herding
+cats.
 
  <br />
 
