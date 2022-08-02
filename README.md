@@ -4,7 +4,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=21&color=4296B3&lines=Developer+Analyst+Civil+Engineer+;Javascript+React+Node+Express;PostgreSQL+MySQL+Oracle+SQLServer)](https://git.io/typing-svg)
 
+## Current
 
+School of Code (https://www.schoolofcode.co.uk/) projects with HTML, CSS,
+Javascript, React, Typescript, Node, Express, REST APIs, Jest, Cypress, Git and
+Github, to name but a few of the technologies we got to grips with. The bootcamp
+culminated in a gruelling, four-week, group project: six people; four intense
+weeks; pair-programming from inception to full stack demo for **Raduno! Catch up
+without the fuss!** a responsive web app designed to streamline arranging big
+group events, whichm, as we know, can be like herding cats.
+
+ <br />
 | Project Repo Description                                                                                                                                                                                                                                                                                                                       | Link                                                            |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | Front end for **Raduno!**, a responsive web app (React, Javascript, HTML, CSS, Cypress, hosted on Netlify) to simplify organising group catch-ups. Includes chat, invitation and group voting features. Design documentation included. _Next step is to complete real-time chat implementation using socket.io, and to integrate Auth0._       | https://github.com/SchoolOfCode/final-project-front-end-hexcode |
@@ -20,18 +30,6 @@ CA-OpenROAD & Ingres, MySQL, Microsoft SQLServer, Oracle) and on complex,
 multi-million pound projects. I then forked my career into business analysis and
 project management for several years, before merging back into my first love,
 coding.
-
-## Current
-
-School of Code UK graduate (https://www.schoolofcode.co.uk/). Completed projects
-with HTML, CSS, Javascript, React, Typescript, Node, Express, REST APIs, Jest,
-Cypress, Git and Github, to name but a few of the technologies we got to grips
-with. The bootcamp culminated in a gruelling, four-week, group project: six
-people; four intense weeks; pair-programming from inception to full stack demo
-for **Raduno! Catch up without the fuss!** a responsive web app designed to
-streamline arranging big group events, whichm, as we know, can be like herding
-cats.
-
 
 <!-- | Company | Client/Project | Experience |
 | ------- | -------------- | ---------- |
