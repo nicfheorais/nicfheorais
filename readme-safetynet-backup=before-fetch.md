@@ -16,14 +16,12 @@ group events, whichm, as we know, can be like herding cats. -->
 
  <br />
 
-
 | Description                                                                                                                                                                                                                                                                                                                                         | Link                                                            |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | Front end repo for **Raduno!**, a responsive web app (React, Javascript, HTML, CSS, Cypress, hosted on Netlify) to simplify organising group catch-ups. Includes chat, invitation and group voting features. Design documentation included. _Next step is to complete real-time chat implementation using socket.io, and to integrate Auth0._       | https://github.com/SchoolOfCode/final-project-front-end-hexcode |
 | Back end repo for **Raduno!** - mutiple RESTful APIs (Node, Express), with migration/ seed data scripts for PostgreSQL, hosted on Heroku. Domain model, logical and physical datamodels, and API-Front End mapping diagram stored alongside the code. _Next steps are to complete the Jest and SuperTest coverage and to transition to Typescript._ | https://github.com/SchoolOfCode/final-project-repo-hexcode      |
 | **Country Quiz Web App** - provides a series of hints, from which the player guesses the country. React, HTML and CSS, with 3rd party API integration for the country facts. Build in progress. _Currently re-factoring to use Typescript and improving use of React Hooks._                                                                        | https://github.com/nicfheorais/country-api-quiz                 |
 | Simple **calculator in React** to practice Typescript, pair-programming and Test Driven Design, using Jest. _Very early days. Design complete. Build starting next week_                                                                                                                                                                            | https://github.com/nicfheorais/calculator-react-jest            |
-
 
 ## Experience
 
