@@ -15,7 +15,6 @@ without the fuss!** a responsive web app designed to streamline arranging big
 group events, whichm, as we know, can be like herding cats.
 
  <br />
-
 | Project Repo Description                                                                                                                                                                                                                                                                                                                       | Link                                                            |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | Front end for **Raduno!**, a responsive web app (React, Javascript, HTML, CSS, Cypress, hosted on Netlify) to simplify organising group catch-ups. Includes chat, invitation and group voting features. Design documentation included. _Next step is to complete real-time chat implementation using socket.io, and to integrate Auth0._       | https://github.com/SchoolOfCode/final-project-front-end-hexcode |
