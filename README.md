@@ -1,4 +1,4 @@
-# Sinéad Nic Fheorais (Sinead Corish)
+# Sinéad Nic Fheorais
 
 <!-- From here: https://readme-typing-svg.herokuapp.com/demo/ -->
 
@@ -52,10 +52,6 @@ for several years, before merging back into my first love, coding. -->
 -   Data migrations, data cleansing, data transformations; and
 -   Data modelling and storage especially relational databases - Oracle,
     MySQL/MariaDB, Microsoft SQL Server, PostgreSQL, DB2 and Ingres.
-
-### More information
-
-<a href="https://www.linkedin.com/in/sineadcorish" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Logo"  /></a>
 
 ### Hobbies
 
